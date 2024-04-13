@@ -1,0 +1,59 @@
+body {
+    font-family: "Madimi One", sans-serif;
+
+    /* font-family: "Montserrat", sans-serif; */
+    background-image: linear-gradient(115deg, #EADEDB 0%, #c97eb1 50%, #cee64b 75%);
+  }
+
+  div {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  .navbar {
+    background-image: linear-gradient(to right, powderblue, skyblue, palegreen, yellowgreen, green);
+  }
+
+  .middle {
+    height: 1rem;
+    background-color: white;
+  }
+
+  .logo {
+    margin-left: 2rem;
+    width: 225px;
+    height: 65px;
+    object-fit: cover;
+  }
+
+  .lists {
+    margin-right: 10;
+    margin-left: auto;
+  }
+
+  a {
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+  }
+
+  a:hover {
+    color: black;
+    font-weight: 700;
+  }
+
+  .dept-name {
+    color: rgb(14, 145, 197);
+    font-weight: bold;
+  }
+
+  .image1 {
+    height: 220px;
+    object-fit: contain;
+    margin-left: 2rem;
+    border-radius: 2%;
+  }
+
+  h2 {
+    color: rgb(14, 145, 197);
+  }

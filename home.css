@@ -1,0 +1,39 @@
+
+body {
+    font-style: normal;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image:-moz-linear-gradient(rgb(34));
+}
+
+.logo{
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+ float:right;
+ text-align: left;
+}
+header {
+    background-color: deepskyblue;
+    
+}
+.acc{
+    font-family:'Times New Roman', Times, serif ;
+
+}
+.nav
+{
+    align-self: start;
+}
+#a{
+    text-align: left;
+}
+#b{
+    text-align: center;
+}
+#c{
+    text-align: center;
+}
+#d{
+    text-align: end;
+}
